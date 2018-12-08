@@ -3,6 +3,9 @@ Flow client for iOS.
 
 Designed to be an alternative to the horrible *(official)* Reddit app. UI based mostly on Google's material design scheme.
 
+# Things to know
+All releases will be stored in their own branches. Nothing except screenshots and other non-essential itmes will be commited to the master branch.
+
 # Requirements
 * Mac/Macbook with Xcode installed
 * iOS development profile
