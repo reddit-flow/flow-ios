@@ -5,6 +5,7 @@ Designed to be an alternative to the horrible *(official)* Reddit app. UI based 
 
 Changelog:
 
+* 12/8/18: Uploaded mandatory files to allow app to compile successfully.
 * 12/7/18: Development for landing screen started
 * 12/6/18: Login scheme created and connected to Firebase
 * 12/2/18: Development started
