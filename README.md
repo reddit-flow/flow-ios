@@ -25,3 +25,10 @@ Designed to be an alternative to the horrible *(official)* Reddit app. UI based 
 UI is quite messy right now. Only a few features work.
 
 Developer website: [KingDiamond App Hub](kingdiamondapphub.weebly.com)
+
+# Screenshots
+![Start Screen](/Screenshots/IMG_0647.PNG)
+![Login/Signup Screen](/Screenshots/IMG_0646.PNG)
+![Login Screen](/Screenshots/IMG_0649.PNG)
+![Signup Screen](/Screenshots/IMG_0651.PNG)
+![Landing/Main Screen](/Screenshots/IMG_0650.PNG)
