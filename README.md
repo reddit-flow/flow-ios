@@ -5,7 +5,7 @@ Designed to be an alternative to the horrible *(official)* Reddit app. UI based 
 
 # Things to know
 * All sources (beta, pre-alpha, etc.) will be stored in their own branches. Nothing except screenshots and other non-essential items will be commited to the master branch.
-* All releases will be stored in the *Releases* branch.
+* All releases will be stored in the *Releases*.
 
 
 # Requirements
@@ -30,6 +30,9 @@ Designed to be an alternative to the horrible *(official)* Reddit app. UI based 
 UI is quite messy right now. Only a few features work.
 
 Developer website: [KingDiamond App Hub](kingdiamondapphub.weebly.com)
+
+# Current Status
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Pre-alpha`
 
 # Screenshots
 ![Start Screen](/Screenshots/IMG_0647.PNG)
