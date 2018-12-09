@@ -33,10 +33,3 @@ Developer website: [KingDiamond App Hub](kingdiamondapphub.weebly.com)
 
 # Current Status
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Pre-alpha`
-
-# Screenshots
-![Start Screen](/Screenshots/IMG_0647.PNG)
-![Login/Signup Screen](/Screenshots/IMG_0646.PNG)
-![Login Screen](/Screenshots/IMG_0649.PNG)
-![Signup Screen](/Screenshots/IMG_0651.PNG)
-![Landing/Main Screen](/Screenshots/IMG_0650.PNG)
