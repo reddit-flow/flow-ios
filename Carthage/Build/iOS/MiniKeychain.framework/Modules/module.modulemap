@@ -1,0 +1,11 @@
+framework module MiniKeychain {
+  umbrella header "MiniKeychain.h"
+
+  export *
+  module * { export * }
+}
+
+module MiniKeychain.Swift {
+    header "MiniKeychain-Swift.h"
+    requires objc
+}

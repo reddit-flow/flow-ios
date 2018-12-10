@@ -1,0 +1,11 @@
+framework module YouTubeGetVideoInfoAPIParser {
+  umbrella header "YouTubeGetVideoInfoAPIParser.h"
+
+  export *
+  module * { export * }
+}
+
+module YouTubeGetVideoInfoAPIParser.Swift {
+    header "YouTubeGetVideoInfoAPIParser-Swift.h"
+    requires objc
+}

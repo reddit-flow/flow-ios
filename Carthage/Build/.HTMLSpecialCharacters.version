@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.3.7",
+  "iOS" : [
+    {
+      "name" : "HTMLSpecialCharacters",
+      "hash" : "28e5320378974173f2b88a4fb5b94cfdc2b3fc9a38b27ff847db54142d09c0c0"
+    }
+  ]
+}

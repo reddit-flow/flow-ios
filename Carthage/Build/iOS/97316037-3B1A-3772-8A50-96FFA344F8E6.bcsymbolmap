@@ -1,0 +1,119 @@
+BCSymbolMap Version: 2.0
+-[UIGestureRecognizer(UZTextView) stateDescription]
+-[UIGestureRecognizer(UZTextView) locationInView:margin:]
+-[UITouch(UZTextView) locationInView:margin:]
++[UZTextView sizeForAttributedString:withBoundWidth:]
++[UZTextView sizeForAttributedString:withBoundWidth:margin:]
+-[UZTextView prepareForReuse]
+-[UZTextView attributesAtPoint:]
+-[UZTextView isSelectingAnyText]
+-[UZTextView selectAll]
+-[UZTextView setScale:]
+-[UZTextView setAttributedString:]
+-[UZTextView selectedRange]
+-[UZTextView setHighlightRanges:]
+-[UZTextView setSelectedRange:]
+-[UZTextView setMinimumPressDuration:]
+-[UZTextView minimumPressDuration]
+-[UZTextView delegate]
+-[UZTextView setDelegate:]
+-[UZTextView attributedString]
+-[UZTextView contentSize]
+-[UZTextView scale]
+-[UZTextView highlightRanges]
+-[UZTextView margin]
+-[UZTextView setMargin:]
+-[UZTextView .cxx_destruct]
+-[UZTextView(Internal) setCursorHidden:]
+-[UZTextView(Internal) updateLayout]
+-[UZTextView(Internal) cancelSelectedText]
+-[UZTextView(Internal) fragmentRectForCursorAtIndex:side:]
+-[UZTextView(Internal) fragmentRectsForGlyphFromIndex:toIndex:]
+-[UZTextView(Internal) circumscribingRectForStringFromIndex:toIndex:]
+-[UZTextView(Internal) drawSelectedLinkFragments]
+-[UZTextView(Internal) drawSelectedTextFragmentRectsFromIndex:toIndex:color:]
+-[UZTextView(Internal) drawStrikethroughLine]
+___45-[UZTextView(Internal) drawStrikethroughLine]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[UZTextView(Internal) drawBackgroundColor]
+___43-[UZTextView(Internal) drawBackgroundColor]_block_invoke
+___copy_helper_block_.205
+___destroy_helper_block_.206
+-[UZTextView(Internal) drawStringRectForDebug]
+-[UZTextView(Internal) drawContent]
+-[UZTextView(Internal) didChangeLongPressGesture:]
+-[UZTextView(Internal) prepareForInitialization]
+-[UZTextView(Internal) rangeOfLinkStringAtPoint:]
+-[UZTextView(Internal) setSelectionWithPoint:]
+-[UZTextView(Internal) indexForPoint:]
+-[UZTextView(Internal) touchesBegan:withEvent:]
+-[UZTextView(Internal) touchesMoved:withEvent:]
+-[UZTextView(Internal) touchesEnded:withEvent:]
+-[UZTextView(Internal) touchesCancelled:withEvent:]
+-[UZTextView(Internal) applicationDidChangeStatusBarOrientationNotification:]
+-[UZTextView(Internal) resignFirstResponder]
+-[UZTextView(Internal) canBecomeFirstResponder]
+-[UZTextView(Internal) copy:]
+-[UZTextView(Internal) selectAll:]
+-[UZTextView(Internal) canPerformAction:withSender:]
+-[UZTextView(Internal) setFrame:]
+-[UZTextView(Internal) setBounds:]
+-[UZTextView(Internal) dealloc]
+-[UZTextView(Internal) setBackgroundColor:]
+-[UZTextView(Internal) hitTest:withEvent:]
+-[UZTextView(Internal) layoutSubviews]
+-[UZTextView(Internal) initWithFrame:]
+-[UZTextView(Internal) initWithCoder:]
+-[UZTextView(Internal) drawRect:]
+_OBJC_IVAR_$_UZTextView._delegate
+_OBJC_IVAR_$_UZTextView._contentSize
+___block_descriptor_tmp
+___block_descriptor_tmp.207
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/jiwanshu2003/Documents/GitHub/reddift/Carthage/Checkouts/UZTextView/UZTextView/UZTextView.m
+/Users/jiwanshu2003/Documents/GitHub/reddift/Carthage/Checkouts/UZTextView
+__CGPointEqualToPoint
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+NSLocationInRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+CGRectMake
+NSMakeRange
+__destroy_helper_block_
+__copy_helper_block_
+__43-[UZTextView(Internal) drawBackgroundColor]_block_invoke
+__45-[UZTextView(Internal) drawStrikethroughLine]_block_invoke
+NSMaxRange
+/Users/jiwanshu2003/Documents/GitHub/reddift/Carthage/Checkouts/UZTextView/UZTextView/UZTextView.h
+CGSizeMake
++[UZCursorView cursorRectWithEdgeRect:cursorDirection:]
+-[UZCursorView initWithCursorDirection:]
+-[UZCursorView layoutSubviews]
+-[UZCursorView drawRect:]
+/Users/jiwanshu2003/Documents/GitHub/reddift/Carthage/Checkouts/UZTextView/UZTextView/UZCursorView.m
+-[UZLoupeView alphaAnimationWhileAppearing]
+-[UZLoupeView transformScaleAnimationWhileAppearing]
+-[UZLoupeView translationAnimationWhileAppearing]
+-[UZLoupeView alphaAnimationWhileDisappearing]
+-[UZLoupeView transformScaleAnimationWhileDisapearing]
+-[UZLoupeView translationAnimationWhileDisappearing]
+-[UZLoupeView animateForAppearingWithDuration:]
+-[UZLoupeView animateForDisappearingWithDuration:]
+-[UZLoupeView animationDidStop:finished:]
+-[UZLoupeView setVisible:animated:]
+-[UZLoupeView updateAtLocation:textView:]
+-[UZLoupeView dealloc]
+-[UZLoupeView setCenter:]
+-[UZLoupeView initWithRadius:]
+-[UZLoupeView drawRect:]
+-[UZLoupeView textViewBackgroundColor]
+-[UZLoupeView setTextViewBackgroundColor:]
+-[UZLoupeView .cxx_destruct]
+_OBJC_IVAR_$_UZLoupeView._textViewBackgroundColor
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_CAAnimationDelegate
+l_OBJC_LABEL_PROTOCOL_$_CAAnimationDelegate
+/Users/jiwanshu2003/Documents/GitHub/reddift/Carthage/Checkouts/UZTextView/UZTextView/UZLoupeView.m
+/Users/jiwanshu2003/Documents/GitHub/reddift/Carthage/Checkouts/UZTextView/UZTextView/UZLoupeView.h
+/Users/jiwanshu2003/Library/Caches/org.carthage.CarthageKit/DerivedData/10.1_10B61/UZTextView/1.0.8/Build/Intermediates.noindex/ArchiveIntermediates/UZTextView/IntermediateBuildFilesPath/UZTextView.build/Release-iphoneos/UZTextView.build/DerivedSources/UZTextView_vers.c

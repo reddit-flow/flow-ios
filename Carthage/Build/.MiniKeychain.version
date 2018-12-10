@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.8",
+  "iOS" : [
+    {
+      "name" : "MiniKeychain",
+      "hash" : "f0706c6cdf675563761cd9af33bcbf264de58fb6a3e3117b3dd6de84735135c8"
+    }
+  ]
+}

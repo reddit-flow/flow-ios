@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.4",
+  "iOS" : [
+    {
+      "name" : "YouTubeGetVideoInfoAPIParser",
+      "hash" : "aea229fb6e834950500f85b7defa273daa8ebcaa4e1520bcec19486ec88db524"
+    }
+  ]
+}

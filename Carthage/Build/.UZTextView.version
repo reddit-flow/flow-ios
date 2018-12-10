@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.8",
+  "iOS" : [
+    {
+      "name" : "UZTextView",
+      "hash" : "0127f6d24cc0b29da44d173936b984e4084f49d89de194ead5225569de8c60c3"
+    }
+  ]
+}

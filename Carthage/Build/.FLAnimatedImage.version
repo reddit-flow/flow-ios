@@ -1,0 +1,9 @@
+{
+  "commitish" : "1.0.14",
+  "iOS" : [
+    {
+      "name" : "FLAnimatedImage",
+      "hash" : "784c4c0c0487b471a5e17949c728d685fab43ea9a382f41e1de195f8e2c0a5dd"
+    }
+  ]
+}
